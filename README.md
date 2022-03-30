@@ -12,3 +12,7 @@
  # 3_Implementation
  
  In this  the player will be asked to make the choice and according to the choice of the player and computer and then the result will be displayed along with the choices of both player and computer
+
+# 4_Images
+![stone paper scissor 1](https://user-images.githubusercontent.com/101457630/160808826-3324e75b-5046-4247-9c15-a78070ad85d9.png)
+![Stone paper scissor 2](https://user-images.githubusercontent.com/101457630/160808865-3dc6b79a-d5ef-4c2b-b0b3-442a7666947b.jpg)
