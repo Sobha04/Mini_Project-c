@@ -24,3 +24,5 @@ This are the choices
 1. Stone
 2. Paper
 3. Scissor
+
+# 6_Other
