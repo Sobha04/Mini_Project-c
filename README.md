@@ -8,3 +8,7 @@
  # 2_Architecture
  #Tools
  No tools needed
+ 
+ # 3_Implementation
+ 
+ In this  the player will be asked to make the choice and according to the choice of the player and computer and then the result will be displayed along with the choices of both player and computer
