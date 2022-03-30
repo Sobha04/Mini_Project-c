@@ -26,3 +26,5 @@ This are the choices
 3. Scissor
 
 # 6_Other
+
+Adding of folders or files which are created for the project
