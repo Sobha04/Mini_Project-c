@@ -16,3 +16,11 @@
 # 4_Images
 ![stone paper scissor 1](https://user-images.githubusercontent.com/101457630/160808826-3324e75b-5046-4247-9c15-a78070ad85d9.png)
 ![Stone paper scissor 2](https://user-images.githubusercontent.com/101457630/160808865-3dc6b79a-d5ef-4c2b-b0b3-442a7666947b.jpg)
+
+# 5_Report
+
+This works on the choice madee by the computer and the player 
+This are the choices
+1. Stone
+2. Paper
+3. Scissor
